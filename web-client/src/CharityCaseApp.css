@@ -1,0 +1,28 @@
+.CharityCaseApp {
+    text-align: center;
+    align-content: center;
+    color: green;
+}
+
+.CharityCaseApp-h1 {
+    text-align: center;
+    font-family: 'Courier New';
+    font-size: large;
+
+}
+
+.CharityCaseTable {
+    text-align: center;
+    font-family: "Times New Roman";
+    font-size: medium;
+    color: green;
+}
+
+.CharityCaseApp-body {
+    align-content: center;
+}
+
+table.center {
+    margin-left: auto;
+    margin-right: auto;
+}

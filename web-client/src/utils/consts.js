@@ -1,0 +1,1 @@
+export const APP_CHARITYCASES_BASE_URL='http://localhost:8080/app/charityCases';
